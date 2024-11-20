@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+h1 {
+    color: #333;
+}
+
+#timer {
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+
+#link-container {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+#link-container a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
